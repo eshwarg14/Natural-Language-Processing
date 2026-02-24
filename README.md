@@ -24,7 +24,6 @@ AI-NLP-Text-Projects/
 - scikit-learn
 - SpeechRecognition / pyttsx3
 - Transformers (HuggingFace)
-- ESP8266 (for push notification projects)
 
 ---
 
