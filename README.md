@@ -3,6 +3,14 @@ A collection of AI-powered NLP and text-based projects built with Python - inclu
 
 ---
 
+.
+## Contributors
+- Eshwar G
+- Shivani R
+
+## Notes
+This project explores how machines understand and process human language.
+
 ## 📁 Repository Structure
 
 ```
