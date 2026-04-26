@@ -4,7 +4,7 @@ A web-based AI language translator built using Python and Streamlit. This applic
 
 ---
 
-## 📸 Demo / Preview
+## Preview
 
 ![Demo](https://github.com/eshwarg14/Natural-Language-Processing/raw/0baa99ebfb9e3f61b9add4c331a727e0860f67ff/Images/TRS.png)
 
